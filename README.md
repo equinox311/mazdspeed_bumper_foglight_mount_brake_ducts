@@ -7,3 +7,6 @@ Foglight mount brake cooling ducts. Left side modeled, use slicer to mirror for 
 # Printing Tips
 - Print in ASA or ABS
 - Print with flat face down on printing surface
+
+# Hardware needed
+-Fasten together with M10 bolt or popclips
