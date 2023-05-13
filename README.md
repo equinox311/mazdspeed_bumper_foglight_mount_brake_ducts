@@ -4,7 +4,7 @@
 
 Foglight mount brake cooling ducts. Left side modeled, use slicer to mirror for right side. These are for 2.5in brake ducting.
 
-![image](https://github.com/equinox311/mazdspeed_bumper_foglight_mount_brake_ducts/assets/53158583/702ea42f-a090-416a-8785-5572c6ba28c3)
+![image](https://github.com/equinox311/mazdspeed_bumper_foglight_mount_brake_ducts/assets/53158583/7ae44bf8-7346-46b2-92cb-75ee9a3239d2)
 
 # Printing Tips
 - Print in ASA or ABS
